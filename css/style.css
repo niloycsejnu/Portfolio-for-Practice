@@ -1,0 +1,110 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+.banner-container{
+    background-color: darkgray;
+}
+
+.container-column{
+    background-color: burlywood;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: #262B37;
+    position:fixed;
+    z-index: 2;
+  
+}
+
+.nav-link:hover{
+ background-color:burlywood;
+color: coral;
+border-radius: 5px;
+}
+
+.about-container{
+    background-color: aquamarine;
+}
+
+.img-1{
+    border-radius: 50% 50%;
+}
+
+.education-container{
+    background-color: #EEEEEE;
+}
+
+.bg-redtype{
+    background-color: #FB857F;
+}
+.redtype-color{
+    color: #FB857F;
+}
+
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #FB857F;
+}
+.project-container{
+    background-color: #EEEEEE;
+}
+.white-type-color{
+    color: aliceblue;
+}
+.bg-sky-type{
+    background-color: blue;
+}
+
+.img-height{
+    height: 200px;
+    width: 300px;
+}
+.bg-pink-type{
+    background-color: whitesmoke;
+}
+
+
+.form-container{
+    background-color: #474D5D;
+}
+
+.form-container-extra{
+    background-color: #474D5D;
+}
+
+
+.inner-form{
+    background-color: #585F73;
+}
+.form-row{
+    display:flex;
+}
+
+
+.btn{
+    
+    height: 40px;
+    width: 100px;
+    background-color: orangered;
+    border: 5px solid orangered;
+    color: black;
+    font-size: 17px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.btn:hover{
+    background-color: #EEEEEE;
+}
+
+.footer-container{
+    background-color: aquamarine;
+    height: 550px;
+    width: 1519px;
+    margin-top: 20px;
+}
